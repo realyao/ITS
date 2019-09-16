@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\about.o
+./debug\cameraview.o
+./debug\carcontrol.o
+./debug\charge.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\mysocket.o
+./debug\threadrd.o
+./debug\moc_mainwindow.o
+./debug\moc_about.o
+./debug\moc_cameraview.o
+./debug\moc_carcontrol.o
+./debug\moc_charge.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\about.o
+./release\cameraview.o
+./release\carcontrol.o
+./release\charge.o
+./release\main.o
+./release\mainwindow.o
+./release\mysocket.o
+./release\threadrd.o
+./release\moc_mainwindow.o
+./release\moc_about.o
+./release\moc_cameraview.o
+./release\moc_carcontrol.o
+./release\moc_charge.o
+);
