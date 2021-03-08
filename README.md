@@ -1,2 +1,3 @@
-# Smart-traffic
-大四课设智慧交通，基于raspberrypie，rfid模组的一个模拟沙盘项目
+# Smart-traffic（智慧交通设计）
+* Base: `Raspberrypie`, `RFID`, `Sensor`
+* Function: `Electronic Toll Collection sys(ETC)`, `Vehicle obstacle avoidance`, `Automatic cruise`
