@@ -1,4 +1,4 @@
-# Smart-traffic
+# Intelligent Transport System (ITS)
 
 ### 基于树莓派的智慧交通模拟沙盘
 
